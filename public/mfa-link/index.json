@@ -1,0 +1,12 @@
+{
+    "identifier": "org.standardnotes.mfa-link",
+    "name": "2FA Manager",
+    "content_type": "SN|Component",
+    "area": "modal",
+    "version": "1.2.2",
+    "description": "Configure two-factor authentication to add an extra level of security to your account.",
+    "valid_until": "2030-05-16T18:35:33.000Z",
+    "url": "https://o-o.one/standardnotes-extensions/mfa-link/1.2.2/dist/index.html",
+    "download_url": "https://github.com/sn-extensions/mfa-link/archive/1.2.2.zip",
+    "latest_url": "https://o-o.one/standardnotes-extensions/mfa-link/index.json"
+}
